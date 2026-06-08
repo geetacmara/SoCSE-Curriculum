@@ -1,495 +1,1791 @@
 **SCHOOL OF COMPUTER SCIENCE AND ENGINEERING**
 
-# SCHEME OF INSTRUCTIONS (2026 -- 2030 BATCH)
+# SCHEME OF INSTRUCTIONS (2026 – 2030 BATCH)
 
 ## B. Tech - Artificial Intelligence and Data Science
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **I Semester**                                                                                                                                                                              |
-+:==========:+:==========:+:=============:+:===============:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+:==========:+
-| **S. No**  | **Course   | **Title of    | **HC/FC         | **Credit Pattern**                                             | **Contact  | **Examination**                      | **Course   |
-|            | Code**     | the Course**  | /SC/OE/MC/ETC** |                                                                | Hours/**   |                                      | category** |
-|            |            |               |                 |                                                                |            |                                      |            |
-|            |            |               |                 |                                                                | **Week**   |                                      | **(As per  |
-|            |            |               |                 |                                                                |            |                                      | AICTE)**   |
-|            |            |               |                 +------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-|            |            |               |                 | **L**      | **T**      | **P**      | **Total    |                         | **CIE      | **SEE      | **Total    |            |
-|            |            |               |                 |            |            |            | Credit**   |                         | Marks**    | Marks**    | Marks**    |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 1          | B24AS0103  | Multivariable | FC              | 3          | 0          | 0          | 3          | 3                       | 50         | 50         | 100        | BSC        |
-|            |            | Calculus and  |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Linear        |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Algebra       |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 2          | B24AS0105  | Chemical      | FC              | 2          | 1          | 0          | 3          | 3                       | 50         | 50         | 100        | BSC        |
-|            |            | Technology    |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | for Computing |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 3          | B24CI0109  | Introduction  | HC              | 1          | 1          | 0          | 2          | 3                       | 50         | 50         | 100        | ESC        |
-|            |            | to C          |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Programming   |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 4          | B25EE0101  | Electronics   | HC              | 3          | 0          | 0          | 3          | 3                       | 50         | 50         | 100        | ESC        |
-|            |            | and Digital   |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Logic         |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 5          | B25CS0101  | Python for    | HC              | 2          | 0          | 0          | 2          | 3                       | 50         | 50         | 100        | ESC        |
-|            |            | Data Science  |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 6          | B24ED0102  | Fundamentals  | HC              | 1          | 1          | 0          | 2          | 3                       | 50         | 50         | 100        | ESC        |
-|            |            | and           |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Applications  |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | of Civil      |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Engineering   |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 7          | B24CI0110  | Introduction  | HC              | 0          | 0          | 1          | 1          | 2                       | 25         | 25         | 50         | ESC        |
-|            |            | to C          |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Programming   |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | -- Lab        |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 8          | B25EE0102  | Electronics   | HC              | 0          | 0          | 1          | 1          | 2                       | 25         | 25         | 50         | ESC        |
-|            |            | and Digital   |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Logic Lab     |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 9          | B25CS0102  | Python for    | HC              | 0          | 0          | 1          | 1          | 2                       | 25         | 25         | 50         | ESC        |
-|            |            | Data Science  |                 |            |            |            |            |                         |            |            |            |            |
-|            |            | Lab           |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 10         | B24EN0102  | Finance and   | FC              | 1          | 0          | 0          | 1          | 1                       | 25         | 25         | 50         | HSMC       |
-|            |            | Management    |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-| 11         | B24CSET01  | Engineering   | HC              | 1          | 0          | 0          | 1          | 1                       | 25         | 25         | 50         | ESC        |
-|            |            | Exploration   |                 |            |            |            |            |                         |            |            |            |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-|            |            | TOTAL         |                 | 14         | 3          | 3          | 20         | 26                      | 425        | 425        | 850        |            |
-+------------+------------+---------------+-----------------+------------+------------+------------+------------+-------------------------+------------+------------+------------+------------+
-|            | TOTAL SEMESTER CREDITS     | 20                                                                                                                                                |
-+------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-|            | TOTAL CUMULATIVE CREDITS   | 20                                                                                                                                                |
-+------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-|            | TOTAL CONTACT HOURS        | 26                                                                                                                                                |
-+------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-|            | TOTAL MARKS                | 850                                                                                                                                               |
-+------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:19%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="14" style="text-align: center;"><strong>I Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" style="text-align: center;"><strong>S. No</strong></td>
+<td rowspan="2" style="text-align: center;"><strong>Course Code</strong></td>
+<td rowspan="2" style="text-align: center;"><strong>Title of the Course</strong></td>
+<td rowspan="2" style="text-align: center;"><strong>HC/FC /SC/OE/MC/ETC</strong></td>
+<td colspan="5" style="text-align: center;"><strong>Credit Pattern</strong></td>
+<td style="text-align: center;"><p><strong>Contact Hours/</strong></p>
+<p><strong>Week</strong></p></td>
+<td colspan="3" style="text-align: center;"><strong>Examination</strong></td>
+<td style="text-align: center;"><p><strong>Course category</strong></p>
+<p><strong>(As per AICTE)</strong></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>L</strong></td>
+<td style="text-align: center;"><strong>T</strong></td>
+<td style="text-align: center;"><strong>P</strong></td>
+<td style="text-align: center;"><strong>Total Credit</strong></td>
+<td colspan="2" style="text-align: center;"></td>
+<td style="text-align: center;"><strong>CIE Marks</strong></td>
+<td style="text-align: center;"><strong>SEE Marks</strong></td>
+<td style="text-align: center;"><strong>Total Marks</strong></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">B24AS0103</td>
+<td style="text-align: center;">Multivariable Calculus and Linear Algebra</td>
+<td style="text-align: center;">FC</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">BSC</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">B24AS0105</td>
+<td style="text-align: center;">Chemical Technology for Computing</td>
+<td style="text-align: center;">FC</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">BSC</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">B24CI0109</td>
+<td style="text-align: center;">Introduction to C Programming</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">B25EE0101</td>
+<td style="text-align: center;">Electronics and Digital Logic</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">B25CS0101</td>
+<td style="text-align: center;">Python for Data Science</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">B24ED0102</td>
+<td style="text-align: center;">Fundamentals and Applications of Civil Engineering</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">B24CI0110</td>
+<td style="text-align: center;">Introduction to C Programming – Lab</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">B25EE0102</td>
+<td style="text-align: center;">Electronics and Digital Logic Lab</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">B25CS0102</td>
+<td style="text-align: center;">Python for Data Science Lab</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">B24EN0102</td>
+<td style="text-align: center;">Finance and Management</td>
+<td style="text-align: center;">FC</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">HSMC</td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">B24CSET01</td>
+<td style="text-align: center;">Engineering Exploration</td>
+<td style="text-align: center;">HC</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">TOTAL</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">20</td>
+<td colspan="2" style="text-align: center;">26</td>
+<td style="text-align: center;">425</td>
+<td style="text-align: center;">425</td>
+<td style="text-align: center;">850</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">TOTAL SEMESTER CREDITS</td>
+<td colspan="11" style="text-align: center;">20</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">TOTAL CUMULATIVE CREDITS</td>
+<td colspan="11" style="text-align: center;">20</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">TOTAL CONTACT HOURS</td>
+<td colspan="11" style="text-align: center;">26</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;">TOTAL MARKS</td>
+<td colspan="11" style="text-align: center;">850</td>
+</tr>
+</tbody>
+</table>
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **II Semester**                                                                                                                                                                                                                                                                                                                  |
-+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+:================:+
-| **S. No**        | **Course Code**                     | **Title of the   | **HC/FC          | **Credit Pattern**                                                                           | **Contact Hours/**                  | **Examination**                                                           | **Course         |
-|                  |                                     | Course**         | /SC/OE/MC/ETC**  |                                                                                              |                                     |                                                                           | category**       |
-|                  |                                     |                  |                  |                                                                                              | **Week**                            |                                                                           |                  |
-|                  |                                     |                  |                  |                                                                                              |                                     |                                                                           | **(As per        |
-|                  |                                     |                  |                  |                                                                                              |                                     |                                                                           | AICTE)**         |
-|                  |                                     |                  |                  +-------------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-|                  |                                     |                  |                  | **L**                               | **T**            | **P**            | **Total Credit**                    | **Contact hour**                    | **CIE Marks**    | **SEE Marks**    | **Total Marks**  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 1                | B24AS0203                           | Probability and  | FC               | 3                                   | 0                | 0                | 3                                   | 3                                   | 50               | 50               | 100              | BSC              |
-|                  |                                     | Statistics       |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 2                | B24AS0106                           | Physics for      | FC               | 3                                   | 0                | 0                | 3                                   | 3                                   | 50               | 50               | 100              | BSC              |
-|                  |                                     | Computer Science |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 3                | B24ME0105                           | Fundamentals of  | HC               | 3                                   | 0                | 0                | 3                                   | 3                                   | 50               | 50               | 100              | ESC              |
-|                  |                                     | Mechanical       |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | Engineering      |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 4                | B25CS0201                           | Business         | HC               | 2                                   | 0                | 0                | 2                                   | 2                                   | 50               | 50               | 100              | PCC              |
-|                  |                                     | Analysis and     |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | Software Design  |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 5                | B25CI0201                           | Advanced C       | HC               | 1                                   | 1                | 1                | 3                                   | 5                                   | 50               | 50               | 100              | PCC              |
-|                  |                                     | programming      |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     |                  |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | with Generative  |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | AI               |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 6                | B24EN0101                           | Internet of      | HC               | 1                                   | 0                | 1                | 2                                   | 3                                   | 50               | 50               | 100              | ESC              |
-|                  |                                     | Things           |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 7                | B24AS0108                           | Physics for      | HC               | 0                                   | 0                | 1                | 1                                   | 2                                   | 25               | 25               | 50               | BSC              |
-|                  |                                     | Computer Science |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | Lab              |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 8                | B24ME0102                           | Innovation and   | FC               | 1                                   | 0                | 1                | 2                                   | 3                                   | 50               | 50               | 100              | HSMC             |
-|                  |                                     | Entrepreneurship |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 9                | B25CSET01                           | AI Foundations   | ETC              | 1                                   | 0                | 0                | 1                                   | 1                                   | 25               | 25               | 50               | ETC              |
-|                  |                                     | for Engineers    |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 10               | B24AH0103                           | Communicative    | FC               | 0                                   | 0                | 1                | 1                                   | 2                                   | 25               | 25               | 50               | HSMC             |
-|                  |                                     | English          |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+-------------------------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-| 11               | B25CI0203                           | Grand Challenge  | MC               | 0                                   | 0                | 0                | 0                                   | 4                                   | 50               | 50               | 100              |                  |
-|                  |                                     | (Extra credit    |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | 0-0-1)           |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-|                  |                                     | (Optional)       |                  |                                     |                  |                  |                                     |                                     |                  |                  |                  |                  |
-+------------------+-------------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-|                  |                                     | TOTAL                                                  | 16               | 1                | 4                | 21                                  | 31                                  | 475              | 475              | 950              |                  |
-+------------------+------------------+------------------+--------------------------------------------------------+------------------+------------------+------------------+-------------------------------------+-------------------------------------+------------------+------------------+------------------+------------------+
-|                                     | TOTAL SEMESTER CREDITS                                                    | 21                                                                                                                                                                                                             |
-+-------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                     | TOTAL CUMULATIVE CREDITS                                                  | 41                                                                                                                                                                                                             |
-+-------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                     | TOTAL CONTACT HOURS                                                       | 31                                                                                                                                                                                                             |
-+-------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                     | TOTAL MARKS                                                               | 950                                                                                                                                                                                                            |
-+-------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:32%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="17" style="text-align: center;"><strong>II Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" style="text-align: center;"><strong>S. No</strong></td>
+<td colspan="2" rowspan="2" style="text-align: center;"><strong>Course Code</strong></td>
+<td rowspan="2" style="text-align: center;"><strong>Title of the Course</strong></td>
+<td rowspan="2" style="text-align: center;"><strong>HC/FC /SC/OE/MC/ETC</strong></td>
+<td colspan="5" style="text-align: center;"><strong>Credit Pattern</strong></td>
+<td colspan="2" style="text-align: center;"><p><strong>Contact Hours/</strong></p>
+<p><strong>Week</strong></p></td>
+<td colspan="4" style="text-align: center;"><strong>Examination</strong></td>
+<td style="text-align: center;"><p><strong>Course category</strong></p>
+<p><strong>(As per AICTE)</strong></p></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><strong>L</strong></td>
+<td style="text-align: center;"><strong>T</strong></td>
+<td style="text-align: center;"><strong>P</strong></td>
+<td colspan="2" style="text-align: center;"><strong>Total Credit</strong></td>
+<td colspan="2" style="text-align: center;"><strong>Contact hour</strong></td>
+<td style="text-align: center;"><strong>CIE Marks</strong></td>
+<td style="text-align: center;"><strong>SEE Marks</strong></td>
+<td style="text-align: center;"><strong>Total Marks</strong></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">B24AS0203</td>
+<td style="text-align: center;">Probability and Statistics</td>
+<td style="text-align: center;">FC</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">BSC</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">B24AS0106</td>
+<td style="text-align: center;">Physics for Computer Science</td>
+<td style="text-align: center;">FC</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">BSC</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">B24ME0105</td>
+<td style="text-align: center;">Fundamentals of Mechanical Engineering</td>
+<td style="text-align: center;">HC</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td colspan="2" style="text-align: center;">B25CS0201</td>
+<td style="text-align: center;">Business Analysis and Software Design</td>
+<td style="text-align: center;">HC</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">PCC</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td colspan="2" style="text-align: center;">B25CI0201</td>
+<td style="text-align: center;"><p>Advanced C programming</p>
+<p>with Generative AI</p></td>
+<td style="text-align: center;">HC</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td colspan="2" style="text-align: center;">5</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">PCC</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td colspan="2" style="text-align: center;">B24EN0101</td>
+<td style="text-align: center;">Internet of Things</td>
+<td style="text-align: center;">HC</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">ESC</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td colspan="2" style="text-align: center;">B24AS0108</td>
+<td style="text-align: center;">Physics for Computer Science Lab</td>
+<td style="text-align: center;">HC</td>
+<td colspan="2" style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">BSC</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td colspan="2" style="text-align: center;">B24ME0102</td>
+<td style="text-align: center;">Innovation and Entrepreneurship</td>
+<td style="text-align: center;">FC</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td colspan="2" style="text-align: center;">3</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">HSMC</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td colspan="2" style="text-align: center;">B25CSET01</td>
+<td style="text-align: center;">AI Foundations for Engineers</td>
+<td style="text-align: center;">ETC</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">ETC</td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td colspan="2" style="text-align: center;">B24AH0103</td>
+<td style="text-align: center;">Communicative English</td>
+<td style="text-align: center;">FC</td>
+<td colspan="2" style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">1</td>
+<td colspan="2" style="text-align: center;">2</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">HSMC</td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td colspan="2" style="text-align: center;">B25CI0203</td>
+<td style="text-align: center;">Grand Challenge (Extra credit 0-0-1) (Optional)</td>
+<td style="text-align: center;">MC</td>
+<td colspan="2" style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">0</td>
+<td colspan="2" style="text-align: center;">4</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td colspan="2" style="text-align: center;"></td>
+<td colspan="3" style="text-align: center;">TOTAL</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">4</td>
+<td colspan="2" style="text-align: center;">21</td>
+<td colspan="2" style="text-align: center;">31</td>
+<td style="text-align: center;">475</td>
+<td style="text-align: center;">475</td>
+<td style="text-align: center;">950</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"></td>
+<td colspan="4" style="text-align: center;">TOTAL SEMESTER CREDITS</td>
+<td colspan="11" style="text-align: center;">21</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"></td>
+<td colspan="4" style="text-align: center;">TOTAL CUMULATIVE CREDITS</td>
+<td colspan="11" style="text-align: center;">41</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"></td>
+<td colspan="4" style="text-align: center;">TOTAL CONTACT HOURS</td>
+<td colspan="11" style="text-align: center;">31</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"></td>
+<td colspan="4" style="text-align: center;">TOTAL MARKS</td>
+<td colspan="11" style="text-align: center;">950</td>
+</tr>
+</tbody>
+</table>
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **III Semester**                                                                                                                                                                                                    |
-+================+========================+==================+=================+================+================+================+================+============+============+============+============+==============+
-| **Sl. No**     | **Course Code**        | **Title of the   | **HC/F**        | **Credit Pattern**                                                | **Contact  | **Examination**                      | **AICTE**    |
-|                |                        | Course**         |                 |                                                                   | Hours/     |                                      |              |
-|                |                        |                  | **C/SC/**       |                                                                   | Week**     |                                      | **Course**   |
-|                |                        |                  |                 |                                                                   |            |                                      |              |
-|                |                        |                  | **OE/M C**      |                                                                   |            |                                      | **category** |
-|                |                        |                  |                 +----------------+----------------+----------------+----------------+            +------------+------------+------------+              |
-|                |                        |                  |                 | **L**          | **T**          | **P**          | **Total**      |            | **CIE**    | **SEE**    | **Total    |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            | Marks**    |              |
-|                |                        |                  |                 |                |                |                |                |            | **Mar ks** | **Mar ks** |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **1**          | **B25AS0301**          | **Discrete       | **FC**          | **3**          | **0**          | **0**          | **3**          | **3**      | **50**     | **50**     | **100**    | **BSC**      |
-|                |                        | Mathematics**    |                 |                |                |                |                |            |            |            |            |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | **and Graph      |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Theory**         |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **2**          | **B25CS0301**          | **Data           | **HC**          | **1**          | **1**          | **1**          | **3**          | **5**      | **50**     | **50**     | **100**    | **PCC**      |
-|                |                        | Structures and   |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Algorithms**     |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **3**          | **B25CS0302**          | **Data Base      | **HC**          | **1**          | **1**          | **1**          | **3**          | **5**      | **50**     | **50**     | **100**    | **PCC**      |
-|                |                        | Management       |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Systems**        |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **4**          | **B25EA0303**          | Portfolio        | **HC(W1)**      | **0**          | **0**          | **2**          | **2**          | **4**      | **50**     | **50**     | **100**    | **PCC**      |
-|                |                        | Development      |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **5**          | **B25EA0301**          | **[Object        | **[HC]{.mark}** | **[2]{.mark}** | **[1]{.mark}** | **[1]{.mark}** | **[4]{.mark}** | **6**      | **50**     | **50**     | **100**    | **PCC**      |
-|                |                        | Oriented         |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Programming with |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Python]{.mark}** |                 |                |                |                |                |            |            |            |            |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | []{.mark}        |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **6**          | **B25EA0304**          | **Application    | **HC(W2)**      | **0**          | **0**          | **2**          | **2**          | **4**      | **50**     | **50**     | **100**    | **PEC**      |
-|                |                        | development -1** |                 |                |                |                |                |            |            |            |            |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | **Web design**   |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **7**          | **B25EA0302**          | **Principles of  | **HC**          | **3**          | **0**          | **0**          | **3**          | **3**      | **50**     | **50**     | **100**    | **PCC**      |
-|                |                        | Artificial       |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Intelligence**   |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **[8]{.mark}** | **[B25CS0305]{.mark}** | **[AEC-1]{.mark} | **HC**          | **0**          | **0**          | **1**          | **1**          | **2**      | **25**     | **25**     | **50**     | **AEC**      |
-|                |                        | (Placement       |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Training)**      |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **9**          | **B25CS0304**          | **Introduction   | **HC**          | **0**          | **0**          | **1**          | **1**          | **2**      | **25**     | **25**     | **50**     | **HSMC**     |
-|                |                        | to Design**      |                 |                |                |                |                |            |            |            |            |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | **Thinking**     |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **10**         | **B25ME0301**          | **Indian         | **MC**          | **0**          | **0**          | **0**          | **0**          | **1**      | **25**     | **25**     | **50**     | **HSMC**     |
-|                |                        | Constitution**   |                 |                |                |                |                |            |            |            |            |              |
-|                |                        |                  |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | **and Cyber      |                 |                |                |                |                |            |            |            |            |              |
-|                |                        | Law**            |                 |                |                |                |                |            |            |            |            |              |
-+----------------+------------------------+------------------+-----------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **TOTAL**                                                                    | **9**          | **3**          | **10**         | **22**         | **35**     | **450**    | **450**    | **900**    |              |
-+------------------------------------------------------------------------------+----------------+----------------+----------------+----------------+------------+------------+------------+------------+--------------+
-| **TOTAL SEMESTER CREDITS**                                                                    | **22**                                                                                                              |
-+-----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                                                  | **63**                                                                                                              |
-+-----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                                                       | **36**                                                                                                              |
-+-----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                                               | **900**                                                                                                             |
-+-----------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+<table style="width:21%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>III Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/F</strong></p>
+<p><strong>C/SC/</strong></p>
+<p><strong>OE/M C</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><strong>Contact Hours/ Week</strong></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course</strong></p>
+<p><strong>category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Mar ks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Mar ks</strong></p></td>
+<td><strong>Total Marks</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>B25AS0301</strong></td>
+<td><p><strong>Discrete Mathematics</strong></p>
+<p><strong>and Graph Theory</strong></p></td>
+<td><strong>FC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>BSC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>B25CS0301</strong></td>
+<td><strong>Data Structures and Algorithms</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>B25CS0302</strong></td>
+<td><strong>Data Base Management Systems</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>B25EA0303</strong></td>
+<td>Portfolio Development</td>
+<td><strong>HC(W1)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>B25EA0301</strong></td>
+<td><p><strong><mark>Object Oriented Programming with Python</mark></strong></p>
+<p><mark></mark></p></td>
+<td><strong><mark>HC</mark></strong></td>
+<td><strong><mark>2</mark></strong></td>
+<td><strong><mark>1</mark></strong></td>
+<td><strong><mark>1</mark></strong></td>
+<td><strong><mark>4</mark></strong></td>
+<td><strong>6</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><strong>B25EA0304</strong></td>
+<td><p><strong>Application development -1</strong></p>
+<p><strong>Web design</strong></p></td>
+<td><strong>HC(W2)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PEC</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td><strong>B25EA0302</strong></td>
+<td><strong>Principles of Artificial Intelligence</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong><mark>8</mark></strong></td>
+<td><strong><mark>B25CS0305</mark></strong></td>
+<td><strong><mark>AEC-1</mark> (Placement Training)</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>AEC</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td><strong>B25CS0304</strong></td>
+<td><p><strong>Introduction to Design</strong></p>
+<p><strong>Thinking</strong></p></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td><strong>B25ME0301</strong></td>
+<td><p><strong>Indian Constitution</strong></p>
+<p><strong>and Cyber Law</strong></p></td>
+<td><strong>MC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>9</strong></td>
+<td><strong>3</strong></td>
+<td><strong>10</strong></td>
+<td><strong>22</strong></td>
+<td><strong>35</strong></td>
+<td><strong>450</strong></td>
+<td><strong>450</strong></td>
+<td><strong>900</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL SEMESTER CREDITS</strong></td>
+<td colspan="8"><strong>22</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>63</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>36</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>900</strong></td>
+</tr>
+</tbody>
+</table>
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **IV Semester**                                                                                                                                                                                                                                       |
-+==================+==================+===================+==================+==================+==================+==================+==================+==================+==================+==================+==================+==================+
-| **Sl. No**       | **Course Code**  | **Title of the    | **HC/F**         | **Credit Pattern**                                                        | **Contact        | **Examination**                                        | **AICTE**        |
-|                  |                  | Course**          |                  |                                                                           | Hours/**         |                                                        |                  |
-|                  |                  |                   | **C/SC/OE**      |                                                                           |                  |                                                        | **Course         |
-|                  |                  |                   |                  |                                                                           | **Week**         |                                                        | category**       |
-|                  |                  |                   | **/MC**          |                                                                           |                  |                                                        |                  |
-|                  |                  |                   |                  +------------------+------------------+------------------+------------------+                  +------------------+------------------+------------------+                  |
-|                  |                  |                   |                  | **L**            | **T**            | **P**            | **Total**        |                  | **CIE**          | **SEE**          | **Total Marks**  |                  |
-|                  |                  |                   |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  |                   |                  |                  |                  |                  |                  |                  | **Marks**        | **Marks**        |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **1**            |                  | **Optimization    | **HC**           | **3**            | **0**            | **0**            | **3**            | **3**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Techniques**      |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **2**            |                  | **Design and      | **HC**           | **1**            | **1**            | **1**            | **3**            | **5**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Analysis of       |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  | Algorithms**      |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **3**            |                  | **Stastical       | **HC**           | **1**            | **1**            | **1**            | **3**            | **5**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Machine           |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  | Learning**        |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **4**            |                  | **Operating       | **HC**           | **2**            | **0**            | **1**            | **3**            | **4**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Systems**         |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **5**            |                  | **Application     | **HC(W3)**       | **0**            | **0**            | **2**            | **2**            | **4**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Development - 2   |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  | Advanced Database |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  | Management        |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-|                  |                  | Systems**         |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **6**            |                  | **Data            | **HC(W4)**       | **0**            | **0**            | **2**            | **2**            | **4**            | **50**           | **50**           | **100**          | **PCC**          |
-|                  |                  | Engineering**     |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **7**            |                  | **MOOC            | **HC**           | **0**            | **0**            | **2**            | **2**            | **4**            | **25**           | **25**           | **50**           | **PCC**          |
-|                  |                  | (NPTEL)(COA)**    |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **8**            |                  | **Professional    | **FC**           | **1**            | **0**            | **0**            | **1**            | **1**            | **25**           | **25**           | **50**           | **HSMC**         |
-|                  |                  | Ethics**          |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **9**            |                  | **Universal Human | **FC**           | **1**            | **0**            | **0**            | **1**            | **1**            | **25**           | **25**           | **50**           | **HSMC**         |
-|                  |                  | Values**          |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **10**           |                  | **Environmental   | **MC**           | **1**            | **0**            | **0**            | **[0]{.mark}**   | **[1]{.mark}**   | **0**            | **50**           | **50**           | **HSMC**         |
-|                  |                  | Science**         |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **11**           |                  | **AEC-2(Placement | **AEC**          | **0**            | **0**            | **1**            | **1**            | **2**            | **25**           | **25**           | **50**           | **AEC**          |
-|                  |                  | Training)**       |                  |                  |                  |                  |                  |                  |                  |                  |                  |                  |
-+------------------+------------------+-------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **TOTAL**                                                                  | **11**           | **2**            | **10**           | **21**           | **34**           | **400**          | **450**          | **850**          |                  |
-+----------------------------------------------------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------+
-| **TOTAL SEMESTER CRED**                                                                       | **22**                                                                                                                                                |
-|                                                                                               |                                                                                                                                                       |
-| **ITS**                                                                                       |                                                                                                                                                       |
-+-----------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                                                  | **85**                                                                                                                                                |
-+-----------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                                                       | **35**                                                                                                                                                |
-+-----------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                                               | **850**                                                                                                                                               |
-+-----------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:25%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>IV Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/F</strong></p>
+<p><strong>C/SC/OE</strong></p>
+<p><strong>/MC</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><p><strong>Contact Hours/</strong></p>
+<p><strong>Week</strong></p></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><strong>Total Marks</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td></td>
+<td><strong>Optimization Techniques</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td></td>
+<td><strong>Design and Analysis of Algorithms</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>Stastical Machine Learning</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td></td>
+<td><strong>Operating Systems</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>2</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td></td>
+<td><strong>Application Development - 2 Advanced Database Management Systems</strong></td>
+<td><strong>HC(W3)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td></td>
+<td><strong>Data Engineering</strong></td>
+<td><strong>HC(W4)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td></td>
+<td><strong>MOOC (NPTEL)(COA)</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td></td>
+<td><strong>Professional Ethics</strong></td>
+<td><strong>FC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td></td>
+<td><strong>Universal Human Values</strong></td>
+<td><strong>FC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td></td>
+<td><strong>Environmental Science</strong></td>
+<td><strong>MC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong><mark>0</mark></strong></td>
+<td><strong><mark>1</mark></strong></td>
+<td><strong>0</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td></td>
+<td><strong>AEC-2(Placement Training)</strong></td>
+<td><strong>AEC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>AEC</strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>11</strong></td>
+<td><strong>2</strong></td>
+<td><strong>10</strong></td>
+<td><strong>21</strong></td>
+<td><strong>34</strong></td>
+<td><strong>400</strong></td>
+<td><strong>450</strong></td>
+<td><strong>850</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><p><strong>TOTAL SEMESTER CRED</strong></p>
+<p><strong>ITS</strong></p></td>
+<td colspan="8"><strong>22</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>85</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>35</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>850</strong></td>
+</tr>
+</tbody>
+</table>
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **V Semester**                                                                                                                                                                  |
-+============+============+=====================+============+============+============+============+============+============+============+============+============+============+
-| **Sl. No** | **Course   | **Title of the      | **HC/FC**  | **Credit Pattern**                                | **Contac t | **Examination**                      | **AICTE**  |
-|            | Code**     | Course**            |            |                                                   | Hours**    |                                      |            |
-|            |            |                     | **/SC/O    |                                                   |            |                                      | **Course   |
-|            |            |                     | E/MC**     |                                                   | **/Week**  |                                      | category** |
-|            |            |                     |            +------------+------------+------------+------------+            +------------+------------+------------+            |
-|            |            |                     |            | **L**      | **T**      | **P**      | **Total**  |            | **CIE**    | **SEE**    | **Total    |            |
-|            |            |                     |            |            |            |            |            |            |            |            | Marks**    |            |
-|            |            |                     |            |            |            |            |            |            | **Marks**  | **Marks**  |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **1**      |            | **Natural Language  | **PC**     | **2**      | **0**      | **1**      | **3**      | **4**      | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | Processing**        |            |            |            |            |            |            |            |            |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **2**      |            | **Java**            | **HC**     | **2**      | **0**      | **1**      | **3**      | **4**      | **50**     | **50**     | **100**    | **PCC**    |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **3**      |            | **Deep Learning**   | **HC**     | **1**      | **1**      | **1**      | **3**      | **5**      | **50**     | **50**     | **100**    | **PCC**    |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **4**      |            | **Mini Project-1**  | **HC**     | **0**      | **0**      | **2**      | **2**      | **4**      | **50**     | **50**     | **100**    | **PEC**    |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **5**      |            | **Professional      | **SC**     | **3**      | **0**      | **0**      | **3**      | **3**      | **50**     | **50**     | **100**    | **PEC**    |
-|            |            | Elective-1**        |            |            |            |            |            |            |            |            |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **6**      |            | **Open Elective-1** | **OE**     | **3**      | **0**      | **0**      | **3**      | **3**      | **50**     | **50**     | **100**    | **OE**     |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **7**      |            | **Data              | **HC(w5)** | **0**      | **0**      | **2**      | **2**      | **4**      | **25**     | **25**     | **50**     | **PCC**    |
-|            |            | Visualization**     |            |            |            |            |            |            |            |            |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **8**      |            | **MLoPs**           | **HC(w6)** | **0**      | **0**      | **2**      | **2**      | **4**      | **25**     | **25**     | **50**     | **PCC**    |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **9**      |            | **AEC-3(Placement** | **AEC**    | **0**      | **0**      | **1**      | **1**      | **2**      | **25**     | **25**     | **50**     | **AEC**    |
-|            |            |                     |            |            |            |            |            |            |            |            |            |            |
-|            |            | **Training)**       |            |            |            |            |            |            |            |            |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **10**     |            | **Indian            | **MC**     | **1**      | **0**      | **0**      | **0**      | **1**      | **0**      | **50**     | **50**     | **HSMC**   |
-|            |            | Knowledge**         |            |            |            |            |            |            |            |            |            |            |
-|            |            |                     |            |            |            |            |            |            |            |            |            |            |
-|            |            | **System**          |            |            |            |            |            |            |            |            |            |            |
-+------------+------------+---------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **TOTAL**                                                  | **10**     | **1**      | **9**      | **22**     | **34**     | 375        | 425        | 800        |            |
-+------------------------------------------------------------+------------+------------+------------+------------+------------+------------+------------+------------+------------+
-| **TOTAL SEMESTER CREDITS**                                              | **21**                                                                                                |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                            | **106**                                                                                               |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                                 | **31**                                                                                                |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                         | **800**                                                                                               |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
+<table style="width:18%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>V Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/FC</strong></p>
+<p><strong>/SC/O E/MC</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><p><strong>Contac t Hours</strong></p>
+<p><strong>/Week</strong></p></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><strong>Total Marks</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td></td>
+<td><strong>Natural Language Processing</strong></td>
+<td><strong>PC</strong></td>
+<td><strong>2</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td></td>
+<td><strong>Java</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>2</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>Deep Learning</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td></td>
+<td><strong>Mini Project-1</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PEC</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td></td>
+<td><strong>Professional Elective-1</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PEC</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td></td>
+<td><strong>Open Elective-1</strong></td>
+<td><strong>OE</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>OE</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td></td>
+<td><strong>Data Visualization</strong></td>
+<td><strong>HC(w5)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td></td>
+<td><strong>MLoPs</strong></td>
+<td><strong>HC(w6)</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td></td>
+<td><p><strong>AEC-3(Placement</strong></p>
+<p><strong>Training)</strong></p></td>
+<td><strong>AEC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>AEC</strong></td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td></td>
+<td><p><strong>Indian Knowledge</strong></p>
+<p><strong>System</strong></p></td>
+<td><strong>MC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>HSMC</strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>10</strong></td>
+<td><strong>1</strong></td>
+<td><strong>9</strong></td>
+<td><strong>22</strong></td>
+<td><strong>34</strong></td>
+<td>375</td>
+<td>425</td>
+<td>800</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL SEMESTER CREDITS</strong></td>
+<td colspan="8"><strong>21</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>106</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>31</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>800</strong></td>
+</tr>
+</tbody>
+</table>
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **VI Semester**                                                                                                                                                                |
-+============+============+===================+============+============+============+============+============+=============+============+============+============+============+
-| **Sl. No** | **Course   | **Title of the    | **HC/FC/   | **Credit Pattern**                                | **Contact** | **Examination**                      | **AICTE**  |
-|            | Code**     | Course**          | SC/OE**    |                                                   |             |                                      |            |
-|            |            |                   |            |                                                   | **Hours/    |                                      | **Course   |
-|            |            |                   | **/MC**    |                                                   | Week**      |                                      | category** |
-|            |            |                   |            +------------+------------+------------+------------+             +------------+------------+------------+            |
-|            |            |                   |            | **L**      | **T**      | **P**      | **Total**  |             | **CIE**    | **SEE**    | **Total**  |            |
-|            |            |                   |            |            |            |            |            |             |            |            |            |            |
-|            |            |                   |            |            |            |            |            |             | **Marks**  | **Marks**  | **Marks**  |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| 1          |            | **Principles of   | **HC**     | **2**      | **1**      | **0**      | **3**      | **4**       | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | cloud computing** |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **2**      |            | **Generative AI** | **PC**     | **1**      | **1**      | **1**      | **3**      | **5**       | **50**     | **50**     | **100**    | **PCC**    |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **3**      |            | **Computer        | **HC**     | **1**      | **1**      | **1**      | **3**      | **5**       | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | Networks**        |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **4**      |            | **Professional    | **SC**     | **3**      | **0**      | **0**      | **3**      | **3**       | **50**     | **50**     | **100**    | **PEC**    |
-|            |            | Elective-2**      |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **5**      |            | **Open            | **OE**     | **3**      | **0**      | **0**      | **3**      | **3**       | **50**     | **50**     | **100**    | **OE**     |
-|            |            | Elective-2**      |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **6**      |            | **W7 (Big Data    | **W7**     | **0**      | **0**      | **2**      | **2**      | **4**       | **25**     | **25**     | **50**     | **PCC**    |
-|            |            | Analytics)**      |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **7**      |            | **W8 (AI App      | **W8**     | **0**      | **0**      | **2**      | **2**      | **4**       | **25**     | **25**     | **50**     | **PCC**    |
-|            |            | Dev)**            |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **8**      |            | **Mini Project    | **HC**     | **0**      | **0**      | **3**      | **3**      | **6**       | **50**     | **50**     | **100**    | **Proj**   |
-|            |            | 2**               |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **9**      |            | **AEC-4(Placement | **AEC**    | **0**      | **0**      | **1**      | **1**      | **2**       | **25**     | **25**     | **50**     | **AEC**    |
-|            |            | Training)**       |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-------------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL**                                                | **10**     | **3**      | **10**     | **23**     | **36**      | **375**    | **375**    | **750**    |            |
-+----------------------------------------------------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL SEMESTER CREDITS**                                            | **23**                                                                                                 |
-+-----------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                          | **129**                                                                                                |
-+-----------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                               | **30**                                                                                                 |
-+-----------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                       | **900**                                                                                                |
-+-----------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+<table style="width:18%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>VI Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/FC/ SC/OE</strong></p>
+<p><strong>/MC</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><p><strong>Contact</strong></p>
+<p><strong>Hours/ Week</strong></p></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>Total</strong></p>
+<p><strong>Marks</strong></p></td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td><strong>Principles of cloud computing</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>2</strong></td>
+<td><strong>1</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td></td>
+<td><strong>Generative AI</strong></td>
+<td><strong>PC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>Computer Networks</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>3</strong></td>
+<td><strong>5</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td></td>
+<td><strong>Professional Elective-2</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PEC</strong></td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td></td>
+<td><strong>Open Elective-2</strong></td>
+<td><strong>OE</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>OE</strong></td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td></td>
+<td><strong>W7 (Big Data Analytics)</strong></td>
+<td><strong>W7</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td></td>
+<td><strong>W8 (AI App Dev)</strong></td>
+<td><strong>W8</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td><strong>4</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td></td>
+<td><strong>Mini Project 2</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>6</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>Proj</strong></td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td></td>
+<td><strong>AEC-4(Placement Training)</strong></td>
+<td><strong>AEC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>25</strong></td>
+<td><strong>25</strong></td>
+<td><strong>50</strong></td>
+<td><strong>AEC</strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>10</strong></td>
+<td><strong>3</strong></td>
+<td><strong>10</strong></td>
+<td><strong>23</strong></td>
+<td><strong>36</strong></td>
+<td><strong>375</strong></td>
+<td><strong>375</strong></td>
+<td><strong>750</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL SEMESTER CREDITS</strong></td>
+<td colspan="8"><strong>23</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>129</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>30</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>900</strong></td>
+</tr>
+</tbody>
+</table>
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **VII Semester**                                                                                                                                                             |
-+============+============+=================+============+============+============+============+============+=============+============+============+============+============+
-| **Sl. No** | **Course   | **Title of the  | **HC/FC/   | **Credit Pattern**                                | **Contact** | **Examination**                      | **AICTE**  |
-|            | Code**     | Course**        | SC/OE**    |                                                   |             |                                      |            |
-|            |            |                 |            |                                                   | **Hours/    |                                      | **Course   |
-|            |            |                 | **/MC**    |                                                   | Week**      |                                      | category** |
-|            |            |                 |            +------------+------------+------------+------------+             +------------+------------+------------+            |
-|            |            |                 |            | **L**      | **T**      | **P**      | **Total**  |             | **CIE**    | **SEE**    | **Total**  |            |
-|            |            |                 |            |            |            |            |            |             |            |            |            |            |
-|            |            |                 |            |            |            |            |            |             | **Marks**  | **Marks**  | **Marks**  |            |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **1**      |            | **Professional  | **SC**     | **3**      | **0**      | **0**      | **3**      | **3**       | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | Elective-3**    |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **2**      |            | **Professional  | **SC**     | **3**      | **0**      | **0**      | **3**      | **3**       | **50**     | **50**     | **100**    | **PEC**    |
-|            |            | Elective-4**    |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **3**      |            | **Capstone      | **HC**     | **0**      | **0**      | **8**      | **8**      | **16**      | **50**     | **50**     | **100**    | **Proj**   |
-|            |            | Project         |            |            |            |            |            |             |            |            |            |            |
-|            |            | Phase-I**       |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **4**      |            | **Internship**  | **HC**     | **0**      | **0**      | **4**      | **4**      | **6**       | **50**     | **50**     | **100**    | **Intern** |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-|            |            | **Global        | **HC**     | **0**      | **0**      | **1**      | **2**      | **2**       |            |            |            |            |
-|            |            | Certification** |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+-----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL**                                              | **6**      | **0**      | **12**     | **19**     | **30**      | **200**    | **200**    | **400**    |            |
-+--------------------------------------------------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL SEMESTER CREDITS**                                          | **18**                                                                                                 |
-+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                        | **147**                                                                                                |
-+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                             | **30**                                                                                                 |
-+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                     | **400**                                                                                                |
-+---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+<table style="width:18%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>VII Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/FC/ SC/OE</strong></p>
+<p><strong>/MC</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><p><strong>Contact</strong></p>
+<p><strong>Hours/ Week</strong></p></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>Total</strong></p>
+<p><strong>Marks</strong></p></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td></td>
+<td><strong>Professional Elective-3</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td></td>
+<td><strong>Professional Elective-4</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PEC</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>Capstone Project Phase-I</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>8</strong></td>
+<td><strong>8</strong></td>
+<td><strong>16</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>Proj</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td></td>
+<td><strong>Internship</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>4</strong></td>
+<td><strong>4</strong></td>
+<td><strong>6</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>Intern</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><strong>Global Certification</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>6</strong></td>
+<td><strong>0</strong></td>
+<td><strong>12</strong></td>
+<td><strong>19</strong></td>
+<td><strong>30</strong></td>
+<td><strong>200</strong></td>
+<td><strong>200</strong></td>
+<td><strong>400</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL SEMESTER CREDITS</strong></td>
+<td colspan="8"><strong>18</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>147</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>30</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>400</strong></td>
+</tr>
+</tbody>
+</table>
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **VIII Semester**                                                                                                                                                           |
-+============+============+================+============+============+============+============+============+=============+============+============+============+============+
-| **Sl. No** | **Course   | **Title of the | **HC/FC/   | **Credit Pattern**                                | **Contact** | **Examination**                      | **AICTE**  |
-|            | Code**     | Course**       | SC/OE**    |                                                   |             |                                      |            |
-|            |            |                |            |                                                   | **Hours/    |                                      | **Course   |
-|            |            |                | **/MC**    |                                                   | Week**      |                                      | category** |
-|            |            |                |            +------------+------------+------------+------------+             +------------+------------+------------+            |
-|            |            |                |            | **L**      | **T**      | **P**      | **Total**  |             | **CIE**    | **SEE**    | **Total**  |            |
-|            |            |                |            |            |            |            |            |             |            |            |            |            |
-|            |            |                |            |            |            |            |            |             | **Marks**  | **Marks**  | **Marks**  |            |
-+------------+------------+----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **1**      |            | **Professional | **SC**     | **3**      | **0**      | **0**      | **3**      | **4**       | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | Elective-5**   |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-|            |            | **Professional | **SC**     | **3**      | **0**      | **0**      | **3**      | **4**       | **50**     | **50**     | **100**    | **PCC**    |
-|            |            | Elective-6**   |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **2**      |            | **Capstone     | **Proj**   | **0**      | **0**      | **3**      | **3**      | **6**       | **50**     | **50**     | **100**    | **Proj**   |
-|            |            | project        |            |            |            |            |            |             |            |            |            |            |
-|            |            | phase-II**     |            |            |            |            |            |             |            |            |            |            |
-+------------+------------+----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **3**      |            | **Internship** | **HC**     | **0**      | **0**      | **4**      | **4**      | **8**       | **50**     | **50**     | **100**    | **Intern** |
-+------------+------------+----------------+------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL**                                             | **6**      | **0**      | **7**      | **13**     | **22**      | **200**    | **200**    | **400**    |            |
-+-------------------------------------------------------+------------+------------+------------+------------+-------------+------------+------------+------------+------------+
-| **TOTAL SEMESTER CREDITS**                                         | **13**                                                                                                 |
-+--------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CUMULATIVE CREDITS**                                       | **160**                                                                                                |
-+--------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL CONTACT HOURS**                                            | **22**                                                                                                 |
-+--------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
-| **TOTAL MARKS**                                                    | **400**                                                                                                |
-+--------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+<table style="width:17%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="13"><strong>VIII Semester</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Sl. No</strong></td>
+<td rowspan="2"><strong>Course Code</strong></td>
+<td rowspan="2"><strong>Title of the Course</strong></td>
+<td rowspan="2"><p><strong>HC/FC/ SC/OE</strong></p>
+<p><strong>/MC</strong></p></td>
+<td colspan="4"><strong>Credit Pattern</strong></td>
+<td rowspan="2"><p><strong>Contact</strong></p>
+<p><strong>Hours/ Week</strong></p></td>
+<td colspan="3"><strong>Examination</strong></td>
+<td rowspan="2"><p><strong>AICTE</strong></p>
+<p><strong>Course category</strong></p></td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td><strong>T</strong></td>
+<td><strong>P</strong></td>
+<td><strong>Total</strong></td>
+<td><p><strong>CIE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>SEE</strong></p>
+<p><strong>Marks</strong></p></td>
+<td><p><strong>Total</strong></p>
+<p><strong>Marks</strong></p></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td></td>
+<td><strong>Professional Elective-5</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><strong>Professional Elective-6</strong></td>
+<td><strong>SC</strong></td>
+<td><strong>3</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>PCC</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td></td>
+<td><strong>Capstone project phase-II</strong></td>
+<td><strong>Proj</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>3</strong></td>
+<td><strong>3</strong></td>
+<td><strong>6</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>Proj</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td></td>
+<td><strong>Internship</strong></td>
+<td><strong>HC</strong></td>
+<td><strong>0</strong></td>
+<td><strong>0</strong></td>
+<td><strong>4</strong></td>
+<td><strong>4</strong></td>
+<td><strong>8</strong></td>
+<td><strong>50</strong></td>
+<td><strong>50</strong></td>
+<td><strong>100</strong></td>
+<td><strong>Intern</strong></td>
+</tr>
+<tr>
+<td colspan="4"><strong>TOTAL</strong></td>
+<td><strong>6</strong></td>
+<td><strong>0</strong></td>
+<td><strong>7</strong></td>
+<td><strong>13</strong></td>
+<td><strong>22</strong></td>
+<td><strong>200</strong></td>
+<td><strong>200</strong></td>
+<td><strong>400</strong></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL SEMESTER CREDITS</strong></td>
+<td colspan="8"><strong>13</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CUMULATIVE CREDITS</strong></td>
+<td colspan="8"><strong>160</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL CONTACT HOURS</strong></td>
+<td colspan="8"><strong>22</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>TOTAL MARKS</strong></td>
+<td colspan="8"><strong>400</strong></td>
+</tr>
+</tbody>
+</table>
 
-  ----------------------------------------------------------------------------------------------------
-    **Sem**     **I**    **II**   **III**   **IV**   **V**    **VI**   **VII**   **VIII**   **Total**
-  ------------ -------- -------- --------- -------- -------- -------- --------- ---------- -----------
-   **Credit**   **20**   **21**   **22**    **21**   **22**   **23**   **18**     **13**     **160**
-
-  ----------------------------------------------------------------------------------------------------
+|  **Sem**   | **I**  | **II** | **III** | **IV** | **V**  | **VI** | **VII** | **VIII** | **Total** |
+|:----------:|:------:|:------:|:-------:|:------:|:------:|:------:|:-------:|:--------:|:---------:|
+| **Credit** | **20** | **21** | **22**  | **21** | **22** | **23** | **18**  |  **13**  |  **160**  |
 
 **List of Professional Electives (2026 scheme)**
 
-+---------------+----------+----------------+--------------------+-------------+
-| **Semester    | **Course | **T1**         | **Course code**    | **T2**      |
-| (Electives)** | code**   |                |                    |             |
-|               |          |                |                    |             |
-| **/ Choices** |          |                |                    |             |
-|               |          |                |                    |             |
-| **of          |          |                |                    |             |
-| courses**     |          |                |                    |             |
-+:=============:+:========:+================+====================+=============+
-| **V (PE1)**   |          | DS for X       | **AI for BFSI**    | LLM         |
-|               |          | (industry      |                    | Engineering |
-|               |          | Specific)      | **AI for Energy**  |             |
-|               |          |                |                    |             |
-|               |          |                | **AI for           |             |
-|               |          |                | Aerospace(Industry |             |
-|               |          |                | specific)**        |             |
-+---------------+----------+----------------+--------------------+-------------+
-| **VI(PE2)**   |          | DS for         | **Marketing, HR,   | LLMOps      |
-|               |          | X(Function     | Finance,           |             |
-|               |          | Specific)      | Production, Supply |             |
-|               |          |                | chain)**           |             |
-+---------------+----------+----------------+--------------------+-------------+
-| **VII(PE3)**  |          | Edge AI &      |                    | Agentic AI  |
-|               |          | Federated      |                    |             |
-|               |          | Learning       |                    |             |
-+---------------+----------+----------------+--------------------+-------------+
-| **VII(PE4)**  |          | High           |                    | Multimodal  |
-|               |          | Performance    |                    | LLM         |
-|               |          | computing in   |                    |             |
-|               |          | DS             |                    |             |
-+---------------+----------+----------------+--------------------+-------------+
-| **VIII(PE5)** |          | Large action   |                    | Ethical AI  |
-|               |          | models /       |                    |             |
-|               |          | **Frontiers of |                    |             |
-|               |          | AI research**  |                    |             |
-+---------------+----------+----------------+--------------------+-------------+
-| **VIII(PE6)** |          | DS for         |                    | > Adversial |
-|               |          | cybersecurity/ |                    | > AI        |
-|               |          | DS for IOT     |                    |             |
-+---------------+----------+----------------+--------------------+-------------+
+<table style="width:8%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;"><p><strong>Semester (Electives)</strong></p>
+<p><strong>/ Choices</strong></p>
+<p><strong>of courses</strong></p></th>
+<th style="text-align: center;"><strong>Course code</strong></th>
+<th><strong>T1</strong></th>
+<th><strong>Course code</strong></th>
+<th><strong>T2</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>V (PE1)</strong></td>
+<td style="text-align: center;"></td>
+<td>DS for X (industry Specific)</td>
+<td><p><strong>AI for BFSI</strong></p>
+<p><strong>AI for Energy</strong></p>
+<p><strong>AI for Aerospace(Industry specific)</strong></p></td>
+<td>LLM Engineering</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>VI(PE2)</strong></td>
+<td style="text-align: center;"></td>
+<td>DS for X(Function Specific)</td>
+<td><strong>Marketing, HR, Finance, Production, Supply chain)</strong></td>
+<td>LLMOps</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>VII(PE3)</strong></td>
+<td style="text-align: center;"></td>
+<td>Edge AI &amp; Federated Learning</td>
+<td></td>
+<td>Agentic AI</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>VII(PE4)</strong></td>
+<td style="text-align: center;"></td>
+<td>High Performance computing in DS</td>
+<td></td>
+<td>Multimodal LLM</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>VIII(PE5)</strong></td>
+<td style="text-align: center;"></td>
+<td>Large action models / <strong>Frontiers of AI research</strong></td>
+<td></td>
+<td>Ethical AI</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>VIII(PE6)</strong></td>
+<td style="text-align: center;"></td>
+<td>DS for cybersecurity/ DS for IOT</td>
+<td></td>
+<td><blockquote>
+<p>Adversial AI</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
