@@ -45,7 +45,7 @@ status: draft
 
 ## 1. Course description 🟢
 
-This course introduces students to database systems, data modelling, SQL programming, normalization, and database application development. It combines conceptual understanding with practical implementation through theory and laboratory work so that students can design, build, query, and evaluate database solutions for real-world applications.
+This course introduces students to database systems, data modelling, SQL programming, normalization, and database application development. It combines conceptual understanding with practical implementation through theory and timed practice & test sessions so that students can design, build, query, and evaluate database solutions for real-world applications.
 
 ---
 
@@ -62,7 +62,7 @@ This course introduces students to database systems, data modelling, SQL program
 
 ## 3. Course scope by unit
 
-Each unit is designed to build the common competence expected of all students through theory, practical exercises, and lab-based application. The course uses one common learning path for the full class, with support and enrichment provided through scaffolding and assessment design.
+Each unit is designed to build the common competence expected of all students through theory, practical exercises, and practice-based application. The course uses one common learning path for the full class, with support and enrichment provided through scaffolding and assessment design.
 
 | Unit | Scope for all students |
 |---|---|
@@ -98,7 +98,7 @@ Each unit is designed to build the common competence expected of all students th
 
 ## 6. Pedagogy 🟢
 
-This course uses an integrated theory–lab pedagogy. Teaching includes direct instruction, guided demonstrations, collaborative problem solving, and hands-on practice in SQL and PL/SQL. Laboratory sessions reinforce conceptual understanding through database creation, query writing, normalization exercises, and small application development tasks.
+This course follows the 1-1-1 delivery model (Theory / Test / Evaluation). Teaching includes direct instruction, guided demonstrations, collaborative problem solving, and timed practice sessions. The 2-hour practice & test sessions reinforce conceptual understanding through database creation, query writing, normalization exercises, and small application development tasks; evaluation is test-based.
 
 ---
 
@@ -125,10 +125,10 @@ This course uses an integrated theory–lab pedagogy. Teaching includes direct i
 
 All students engage with the full range of learning activities. Support is provided through scaffolding, practice opportunities, and flexible assessment pathways so that every student can build competence:
 
-- **Scaffolded practice:** Guided worksheets and step-by-step labs for query construction; pair programming and peer review in lab sessions.
-- **Remediation support:** Tutorial clinics focused on schema modelling, SQL debugging, and PL/SQL logic; re-attempts on formative assessments.
+- **Scaffolded practice:** Guided worksheets and timed practice tasks for query construction; pair programming and peer review during the 2-hour problem/test slot.
+- **Remediation support:** Tutorial clinics focused on schema modelling, SQL debugging, and PL/SQL logic; re-attempts on formative assessments and practice tests.
 - **Enrichment support:** Additional exercises on query optimization, indexing strategy, and case-based database design for students who need further challenge.
-- **Assessment variation:** Formative quizzes with immediate feedback and rubric-based lab assignments for schema design and query optimization.
+- **Assessment variation:** Formative quizzes with immediate feedback and rubric-based problem/test assignments for schema design and query optimization.
 
 ---
 
@@ -146,6 +146,35 @@ All students engage with the full range of learning activities. Support is provi
 **Prerequisite courses:** Data Structures and Algorithms, Computer Organization.
 
 **Pre-reading:** Relational algebra basics, set theory review, and introductory programming constructs.
+
+---
+
+## 10.1 1-1-1 Weekly activities & assessment (tabular)
+
+The following table maps each week to a focused topic, a concrete activity (aligned to the 1-1-1 rhythm), the assessment artifact, the CO(s) addressed, and the primary Bloom level targeted.
+
+| Week | Topic | Activity (Theory/Test/Evaluation) | Assessment components (Current / Previous / Unknown) | Assessment / Evidence | COs | Bloom level |
+|---:|---|---|---|---|---|---|
+| 1 | Introduction to DBMS & install | Theory (1 hr): concepts; Test (2 hrs): DB setup & basic tasks; Evaluation: graded checklist test | Current: DB setup task; Previous: none; Unknown: short configuration troubleshooting prompt | DB setup log; short reflective note | CO1 | Understand |
+| 2 | ER modelling basics | Theory (1 hr): ER concepts; Test (2 hrs): draw ER for given scenario under timed conditions; Evaluation: rubric-based marking | Current: ER for given scenario; Previous: short question on DB concepts; Unknown: model a lightly altered business rule | ER diagram + entity list | CO1, CO2 | Apply |
+| 3 | Relational schema from ER | Theory (1 hr): mapping rules; Test (2 hrs): convert ER to schema (timed); Evaluation: correctness + justification rubric | Current: map provided ER to schema; Previous: apply ER mapping from week 2; Unknown: map a new variation with a hidden constraint | Relational schema (DDL) + justification | CO2 | Apply |
+| 4 | DDL & basic DML | Theory (1 hr): DDL/DML concepts; Test (2 hrs): write DDL/DML for tasks; Evaluation: automated checks + rubric | Current: write DDL/DML for small schema; Previous: fix an earlier DDL error; Unknown: handle an unexpected data-type/constraint case | SQL script + screenshots of operations | CO3 | Apply |
+| 5 | SELECT, filtering, aggregates | Theory (1 hr): query patterns; Test (2 hrs): write queries under test conditions; Evaluation: test-case based scoring | Current: queries for given tasks; Previous: rewrite a prior week's query for changed schema; Unknown: design a query for a new reporting need | Query worksheet + result sets | CO3 | Analyze |
+| 6 | Joins & subqueries | Theory (1 hr): joins/subqueries; Test (2 hrs): timed join/subquery problems; Evaluation: correctness + efficiency notes | Current: solve given join problems; Previous: adapt a prior SELECT to use joins; Unknown: write a correlated subquery for a new scenario | Join/subquery solutions + test data | CO3 | Analyze |
+| 7 | Views & procedural SQL intro | Theory (1 hr): views/PL-SQL; Test (2 hrs): create view & PL/SQL snippet as test task; Evaluation: rubric on functionality & style | Current: create view / PL-SQL snippet; Previous: modify view based on earlier schema change; Unknown: implement a small business rule in PL/SQL | View definitions + PL/SQL snippet | CO4 | Create |
+| 8 | Checkpoint & debugging | Theory (1 hr): common errors; Test (2 hrs): debug faulty scripts under timed test; Evaluation: correctness and debugging notes | Current: debug provided script; Previous: re-run a past practice/test with corrections; Unknown: diagnose a new injected bug | Corrected scripts + peer feedback | CO3, CO4 | Apply |
+| 9 | Functional dependencies | Theory (1 hr): FDs and keys; Test (2 hrs): extract FDs from dataset; Evaluation: rubric on completeness | Current: list FDs for given schema; Previous: revisit candidate keys from week 3; Unknown: identify hidden FD from extended dataset | FD list + candidate keys | CO5 | Understand/Apply |
+| 10 | Normalization (1NF–BCNF) | Theory (1 hr): Normal forms; Test (2 hrs): normalize relations under timed test; Evaluation: decomposition explanation rubric | Current: normalize provided relation; Previous: show incremental normalization from week 9; Unknown: normalize a relation with a tricky FD | Normalized schema + decomposition steps | CO5 | Analyze |
+| 11 | Indexing & query performance | Theory (1 hr): indexing basics; Test (2 hrs): choose/index + measure simple timings; Evaluation: report + before/after evidence | Current: select indexes for given workload; Previous: re-run a previous query with added index; Unknown: suggest an index for an unfamiliar query pattern | Indexing report + before/after timings | CO4, CO5 | Analyze |
+| 12 | Transactions & ACID | Theory (1 hr): transactions; Test (2 hrs): simulate transaction sequences as test tasks; Evaluation: correctness + explanation rubric | Current: run transaction sequence demonstrating ACID; Previous: adapt a prior practice/test to use transactions; Unknown: resolve a new concurrency anomaly | Transaction log + explanation | CO6 | Understand/Apply |
+| 13 | Concurrency control & isolation | Theory (1 hr): concurrency issues; Test (2 hrs): case-based concurrency analysis test; Evaluation: reasoning rubric | Current: analyze given concurrent history; Previous: re-evaluate transaction from week 12; Unknown: propose isolation level for an unseen workload | Short analysis report on isolation choices | CO6 | Analyze |
+| 14 | Recovery & security | Theory (1 hr): recovery mechanisms; Test (2 hrs): design recovery & roles under test conditions; Evaluation: plan scoring rubric | Current: produce recovery plan; Previous: apply backup steps to earlier DB; Unknown: handle a simulated crash with subtle failure | Recovery/access-control plan | CO6 | Apply |
+| 15 | Integrated mini-project (design) | Theory (1 hr): project framing; Test (2 hrs): project milestone delivery in controlled test; Evaluation: project rubric | Current: deliver project milestone; Previous: incorporate feedback from earlier milestones; Unknown: extend project to handle a new requirement | Mini-project DB, queries, report | CO2–CO6 | Create |
+| 16 | Revision & pre-SEE practice | Theory (1 hr): recap; Test (2 hrs): timed mixed test; Evaluation: scoring + reflection | Current: timed mixed test; Previous: include one earlier-week retrieval item; Unknown: include an unseen integrative problem | Timed mini-test results + reflection | CO1–CO6 | Evaluate |
+
+Assessment notes:
+- Weekly practice/test submissions and worksheets form the CIA evidence (15–16 activities). Each assessment should include one current-week task, one previous-weeks retrieval item, and one unknown-related transfer item as per the assessment strategy.
+- Use rubrics for practice/test scripts (correctness, design, comments) and short analytic write-ups for normalization, transaction, and indexing tasks.
 
 ---
 
@@ -170,7 +199,7 @@ All students engage with the full range of learning activities. Support is provi
 | 15 | ‹…› | | Unit 4 — Recovery mechanisms | Application | Identify recovery actions after crash scenarios and design recovery strategies | 75% | CO6 | |
 | 16 | ‹…› | | Unit 4 — Security, access control, and auditing | Integration | Configure role-based privileges and implement secure view access | 80% | CO6 | |
 | 17 | ‹…› | | Integrated design review | Integration | Propose transaction isolation and recovery strategies for a business application | 85% | CO6 | |
-| 18 | ‹…› | | Revision — cumulative SQL and design problems | Integration | Complete cumulative lab covering all units and practice mixed scenarios | 90% | CO3, CO4, CO5, CO6 | |
+| 18 | ‹…› | | Revision — cumulative SQL and design problems | Integration | Complete cumulative timed practice/test covering all units and mixed scenarios | 90% | CO3, CO4, CO5, CO6 | |
 | 19 | ‹…› | | Pre-SEE practice and case studies | Application | Solve prior-year questions and design case studies with feedback | 95% | CO3, CO4, CO5, CO6 | |
 | 20 | ‹…› | | Course wrap-up and reflection | Integration | Review key outcomes and learning across all units | 100% | CO1–CO6 | |
 
@@ -181,19 +210,19 @@ All students engage with the full range of learning activities. Support is provi
 - SQLZoo and DB-Fiddle for interactive SQL practice.
 - DBVisualizer / DBeaver for schema design and query execution.
 - NPTEL and YouTube lectures for supplementary concepts.
-- Course LMS for lab instructions, sample databases, and assessment rubrics.
+- Course LMS for practice/test instructions, sample databases, and assessment rubrics.
 
 ---
 
 ## 13. Academic integrity policy 🟢
 
-All coursework, lab submissions, quizzes, and tests must be original and properly attributed. Any form of plagiarism or copying in evaluation components will result in zero marks for the affected component.
+All coursework, practice/test submissions, quizzes, and tests must be original and properly attributed. Any form of plagiarism or copying in evaluation components will result in zero marks for the affected component.
 
 ---
 
 ## 14. Evaluation scheme
 
-This course is designed as a single-level course. Differentiation is achieved through scaffolding, formative feedback, and task complexity in the lab and assignments rather than by introducing a separate awareness/advanced split in the marks structure.
+This course is designed as a single-level course. Differentiation is achieved through scaffolding, formative feedback, and task complexity in the practice/test sessions and assignments rather than by introducing a separate awareness/advanced split in the marks structure.
 
 | Sl | Component | Marks | Weight % | Date | COs |
 |---|---|---|---|---|---|
